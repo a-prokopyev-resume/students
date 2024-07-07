@@ -1,4 +1,4 @@
 ---
-DB_USER: debut
-DB_PASSWORD: debut
-DB_NAME: debut
+DB_USER: user
+DB_PASSWORD: user
+DB_NAME: user
